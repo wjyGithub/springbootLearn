@@ -1,1 +1,3 @@
 # springbootLearn
+
+本工程只用于初始化springboot,拉取下来直接开发,无需进行mybatis配置,用于项目测试使用
